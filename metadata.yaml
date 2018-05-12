@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7906
     wikipedia: http://en.wikipedia.org/wiki/Johann_Gottlieb_Fichte
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18255#Versuch-einer-Kritik-aller-Offenbarung
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2006-04-25'
 gutenberg_type: Text
