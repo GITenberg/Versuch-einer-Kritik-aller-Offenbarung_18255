@@ -1,0 +1,32 @@
+_repo: Versuch-einer-Kritik-aller-Offenbarung_18255
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fichte, Johann Gottlieb
+    alias: Fichte, J. G. (Johann Gottlieb)
+    birthdate: 1762
+    deathdate: 1814
+    gutenberg_agent_id: '7906'
+    url: http://www.gutenberg.org/2009/agents/7906
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Gottlieb_Fichte
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2006-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18255'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity -- Controversial literature'
+- !lcsh 'Atheism'
+- !lcsh 'Protestantism'
+- !lcc 'B'
+- !lcsh 'Revelation'
+title: Versuch einer Kritik aller Offenbarung
+url: http://www.gutenberg.org/ebooks/18255
